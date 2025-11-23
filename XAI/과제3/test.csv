@@ -1,0 +1,76 @@
+Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,BMI Category,Blood Pressure,Heart Rate,Daily Steps
+Female,45,Teacher,6.6,7,45,Overweight,135/90,65,6000
+Female,56,Doctor,8.2,9,90,Normal Weight,118/75,65,10000
+Male,44,Salesperson,6.4,6,45,Overweight,130/85,72,6000
+Male,32,Doctor,6.0,6,30,Normal,125/80,72,5000
+Female,51,Engineer,8.5,9,30,Normal,125/80,65,5000
+Male,42,Lawyer,7.8,8,90,Normal,130/85,70,8000
+Male,39,Lawyer,7.2,8,60,Normal,130/85,68,8000
+Female,36,Teacher,7.2,8,60,Normal,115/75,68,7000
+Male,28,Doctor,6.2,6,60,Normal,125/80,75,10000
+Female,59,Nurse,8.0,9,75,Overweight,140/95,68,7000
+Male,44,Salesperson,6.3,6,45,Overweight,130/85,72,6000
+Male,30,Doctor,7.9,7,75,Normal,120/80,70,8000
+Female,37,Accountant,7.2,8,60,Normal,115/75,68,7000
+Female,53,Engineer,8.3,9,30,Normal,125/80,65,5000
+Female,51,Engineer,8.5,9,30,Normal,125/80,65,5000
+Female,45,Manager,6.9,7,55,Overweight,125/82,75,5500
+Female,39,Accountant,8.0,9,80,Normal Weight,115/78,67,7500
+Male,31,Doctor,7.7,7,75,Normal,120/80,70,8000
+Male,37,Lawyer,7.4,8,60,Normal,130/85,68,8000
+Female,55,Nurse,8.1,9,75,Overweight,140/95,72,5000
+Male,35,Lawyer,7.4,7,60,Obese,135/88,84,3300
+Male,32,Doctor,6.2,6,30,Normal,125/80,72,5000
+Male,44,Salesperson,6.5,6,45,Overweight,130/85,72,6000
+Female,53,Engineer,8.3,9,30,Normal,125/80,65,5000
+Female,37,Accountant,7.2,8,60,Normal,115/75,68,7000
+Male,35,Engineer,7.3,8,60,Normal,125/80,65,5000
+Female,45,Teacher,6.6,7,45,Overweight,135/90,65,6000
+Male,28,Sales Representative,5.9,4,30,Obese,140/90,85,3000
+Female,55,Nurse,8.1,9,75,Overweight,140/95,72,5000
+Female,50,Nurse,6.1,6,90,Overweight,140/95,75,10000
+Female,49,Nurse,6.2,6,90,Overweight,140/95,75,10000
+Male,33,Doctor,6.1,6,30,Normal,125/80,72,5000
+Female,44,Teacher,6.6,7,45,Overweight,135/90,65,6000
+Male,39,Lawyer,7.2,8,60,Normal,130/85,68,8000
+Female,54,Engineer,8.4,9,30,Normal,125/80,65,5000
+Female,29,Nurse,6.5,5,40,Normal Weight,132/87,80,4000
+Male,43,Engineer,7.8,8,90,Normal,130/85,70,8000
+Female,42,Teacher,6.8,6,45,Overweight,130/85,78,5000
+Female,50,Engineer,8.3,9,30,Normal,125/80,65,5000
+Male,43,Salesperson,6.5,6,45,Overweight,130/85,72,6000
+Female,50,Nurse,6.0,6,90,Overweight,140/95,75,10000
+Female,59,Nurse,8.1,9,75,Overweight,140/95,68,7000
+Male,43,Salesperson,6.5,6,45,Overweight,130/85,72,6000
+Male,33,Doctor,6.0,6,30,Normal,125/80,72,5000
+Female,50,Nurse,6.0,6,90,Overweight,140/95,75,10000
+Male,38,Lawyer,7.3,8,60,Normal,130/85,68,8000
+Female,36,Accountant,7.2,8,60,Normal,115/75,68,7000
+Male,30,Doctor,7.6,7,75,Normal,120/80,70,8000
+Female,36,Teacher,7.2,8,60,Normal,115/75,68,7000
+Male,31,Doctor,7.6,7,75,Normal,120/80,70,8000
+Male,43,Engineer,7.7,8,90,Normal,130/85,70,8000
+Male,35,Teacher,6.7,7,40,Overweight,128/84,70,5600
+Male,44,Salesperson,6.3,6,45,Overweight,130/85,72,6000
+Male,39,Lawyer,7.2,8,60,Normal,130/85,68,8000
+Female,50,Nurse,6.1,6,90,Overweight,140/95,75,10000
+Female,38,Accountant,7.1,8,60,Normal,115/75,68,7000
+Male,44,Salesperson,6.3,6,45,Overweight,130/85,72,6000
+Female,45,Teacher,6.6,7,45,Overweight,135/90,65,6000
+Female,53,Engineer,8.4,9,30,Normal,125/80,65,5000
+Female,50,Nurse,6.0,6,90,Overweight,140/95,75,10000
+Male,39,Lawyer,7.2,8,60,Normal,130/85,68,8000
+Male,33,Doctor,6.0,6,30,Normal,125/80,72,5000
+Female,53,Engineer,8.3,9,30,Normal,125/80,65,5000
+Male,30,Doctor,7.8,7,75,Normal,120/80,70,8000
+Male,39,Lawyer,7.2,8,60,Normal,130/85,68,8000
+Female,50,Nurse,6.0,6,90,Overweight,140/95,75,10000
+Male,41,Lawyer,7.6,8,90,Normal,130/85,70,8000
+Female,52,Engineer,8.4,9,30,Normal,125/80,65,5000
+Male,41,Lawyer,7.1,7,55,Overweight,125/82,72,6000
+Male,44,Salesperson,6.4,6,45,Overweight,130/85,72,6000
+Male,41,Lawyer,7.1,7,55,Overweight,125/82,72,6000
+Female,59,Nurse,8.0,9,75,Overweight,140/95,68,7000
+Female,39,Lawyer,6.9,7,50,Normal Weight,128/85,75,5500
+Female,44,Teacher,6.6,7,45,Overweight,135/90,65,6000
+Male,29,Doctor,7.8,7,75,Normal,120/80,70,8000
