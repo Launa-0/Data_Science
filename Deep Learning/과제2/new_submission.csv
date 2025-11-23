@@ -1,0 +1,2001 @@
+ID,fruit_name
+1,guava
+2,dragon fruit
+3,banana
+4,pineapple
+5,blueberry
+6,plum
+7,plum
+8,pomegranate
+9,apple
+10,pomegranate
+11,strawberry
+12,kiwi
+13,kiwi
+14,papaya
+15,papaya
+16,papaya
+17,apple
+18,strawberry
+19,pear
+20,pear
+21,cherry
+22,mango
+23,plum
+24,watermelon
+25,mango
+26,plum
+27,pomegranate
+28,papaya
+29,dragon fruit
+30,grape
+31,pomegranate
+32,watermelon
+33,apple
+34,papaya
+35,mango
+36,mango
+37,strawberry
+38,guava
+39,plum
+40,dragon fruit
+41,pomegranate
+42,dragon fruit
+43,mango
+44,grape
+45,pineapple
+46,dragon fruit
+47,orange
+48,plum
+49,pineapple
+50,coconut
+51,orange
+52,grape
+53,kiwi
+54,coconut
+55,orange
+56,cherry
+57,banana
+58,dragon fruit
+59,coconut
+60,strawberry
+61,pear
+62,apple
+63,pear
+64,dragon fruit
+65,coconut
+66,lychee
+67,pear
+68,dragon fruit
+69,custard apple
+70,dragon fruit
+71,mango
+72,watermelon
+73,plum
+74,apple
+75,pomegranate
+76,cherry
+77,kiwi
+78,custard apple
+79,pear
+80,dragon fruit
+81,pineapple
+82,plum
+83,plum
+84,pomegranate
+85,plum
+86,grape
+87,dragon fruit
+88,custard apple
+89,lychee
+90,coconut
+91,grape
+92,orange
+93,pomegranate
+94,coconut
+95,custard apple
+96,custard apple
+97,watermelon
+98,pomegranate
+99,coconut
+100,cherry
+101,coconut
+102,mango
+103,cherry
+104,blueberry
+105,banana
+106,grape
+107,banana
+108,orange
+109,custard apple
+110,pineapple
+111,cherry
+112,mango
+113,custard apple
+114,pear
+115,watermelon
+116,pineapple
+117,pineapple
+118,grape
+119,strawberry
+120,watermelon
+121,papaya
+122,banana
+123,pomegranate
+124,custard apple
+125,blueberry
+126,strawberry
+127,pineapple
+128,cherry
+129,strawberry
+130,papaya
+131,orange
+132,apple
+133,watermelon
+134,watermelon
+135,pineapple
+136,grape
+137,coconut
+138,cherry
+139,coconut
+140,coconut
+141,blueberry
+142,blueberry
+143,kiwi
+144,grape
+145,blueberry
+146,grape
+147,mango
+148,strawberry
+149,orange
+150,pear
+151,plum
+152,mango
+153,plum
+154,watermelon
+155,dragon fruit
+156,pineapple
+157,kiwi
+158,guava
+159,plum
+160,guava
+161,lychee
+162,kiwi
+163,lychee
+164,pomegranate
+165,kiwi
+166,banana
+167,dragon fruit
+168,kiwi
+169,orange
+170,apple
+171,custard apple
+172,mango
+173,lychee
+174,pineapple
+175,pineapple
+176,watermelon
+177,watermelon
+178,papaya
+179,mango
+180,mango
+181,grape
+182,lychee
+183,mango
+184,blueberry
+185,lychee
+186,kiwi
+187,apple
+188,strawberry
+189,orange
+190,kiwi
+191,pear
+192,cherry
+193,pear
+194,custard apple
+195,watermelon
+196,kiwi
+197,guava
+198,pear
+199,strawberry
+200,custard apple
+201,banana
+202,strawberry
+203,custard apple
+204,pear
+205,orange
+206,banana
+207,kiwi
+208,watermelon
+209,watermelon
+210,pear
+211,blueberry
+212,lychee
+213,pineapple
+214,banana
+215,pomegranate
+216,apple
+217,blueberry
+218,grape
+219,coconut
+220,plum
+221,lychee
+222,apple
+223,mango
+224,apple
+225,cherry
+226,banana
+227,papaya
+228,pear
+229,strawberry
+230,papaya
+231,grape
+232,mango
+233,orange
+234,papaya
+235,strawberry
+236,dragon fruit
+237,apple
+238,pear
+239,pomegranate
+240,blueberry
+241,apple
+242,coconut
+243,kiwi
+244,orange
+245,custard apple
+246,papaya
+247,grape
+248,guava
+249,papaya
+250,lychee
+251,kiwi
+252,pineapple
+253,guava
+254,mango
+255,mango
+256,custard apple
+257,coconut
+258,kiwi
+259,grape
+260,strawberry
+261,guava
+262,orange
+263,pomegranate
+264,coconut
+265,mango
+266,coconut
+267,pomegranate
+268,orange
+269,grape
+270,papaya
+271,grape
+272,banana
+273,lychee
+274,grape
+275,banana
+276,plum
+277,pomegranate
+278,lychee
+279,pomegranate
+280,papaya
+281,guava
+282,pineapple
+283,dragon fruit
+284,coconut
+285,coconut
+286,watermelon
+287,watermelon
+288,coconut
+289,grape
+290,kiwi
+291,grape
+292,kiwi
+293,dragon fruit
+294,guava
+295,strawberry
+296,strawberry
+297,apple
+298,strawberry
+299,banana
+300,kiwi
+301,orange
+302,watermelon
+303,guava
+304,apple
+305,pineapple
+306,banana
+307,custard apple
+308,coconut
+309,papaya
+310,guava
+311,banana
+312,guava
+313,strawberry
+314,apple
+315,blueberry
+316,strawberry
+317,pomegranate
+318,coconut
+319,pomegranate
+320,guava
+321,mango
+322,guava
+323,mango
+324,watermelon
+325,pear
+326,strawberry
+327,plum
+328,custard apple
+329,blueberry
+330,plum
+331,papaya
+332,cherry
+333,grape
+334,pineapple
+335,coconut
+336,lychee
+337,pear
+338,grape
+339,plum
+340,plum
+341,pear
+342,watermelon
+343,mango
+344,apple
+345,dragon fruit
+346,coconut
+347,dragon fruit
+348,lychee
+349,papaya
+350,coconut
+351,pear
+352,kiwi
+353,plum
+354,apple
+355,banana
+356,orange
+357,kiwi
+358,custard apple
+359,lychee
+360,banana
+361,custard apple
+362,coconut
+363,plum
+364,cherry
+365,papaya
+366,pear
+367,apple
+368,pineapple
+369,banana
+370,grape
+371,pineapple
+372,watermelon
+373,cherry
+374,orange
+375,pomegranate
+376,cherry
+377,plum
+378,kiwi
+379,orange
+380,cherry
+381,blueberry
+382,papaya
+383,cherry
+384,blueberry
+385,orange
+386,coconut
+387,plum
+388,banana
+389,cherry
+390,banana
+391,mango
+392,coconut
+393,coconut
+394,dragon fruit
+395,blueberry
+396,cherry
+397,custard apple
+398,plum
+399,orange
+400,banana
+401,kiwi
+402,blueberry
+403,papaya
+404,grape
+405,watermelon
+406,strawberry
+407,mango
+408,pomegranate
+409,custard apple
+410,cherry
+411,papaya
+412,coconut
+413,papaya
+414,pear
+415,coconut
+416,guava
+417,mango
+418,cherry
+419,guava
+420,pomegranate
+421,lychee
+422,dragon fruit
+423,banana
+424,guava
+425,guava
+426,custard apple
+427,mango
+428,guava
+429,blueberry
+430,apple
+431,cherry
+432,guava
+433,coconut
+434,cherry
+435,mango
+436,pomegranate
+437,kiwi
+438,strawberry
+439,kiwi
+440,strawberry
+441,guava
+442,orange
+443,plum
+444,strawberry
+445,kiwi
+446,strawberry
+447,pomegranate
+448,mango
+449,strawberry
+450,blueberry
+451,papaya
+452,banana
+453,pear
+454,watermelon
+455,apple
+456,papaya
+457,lychee
+458,dragon fruit
+459,plum
+460,grape
+461,apple
+462,grape
+463,coconut
+464,apple
+465,dragon fruit
+466,watermelon
+467,cherry
+468,coconut
+469,cherry
+470,plum
+471,plum
+472,pomegranate
+473,cherry
+474,banana
+475,custard apple
+476,guava
+477,pineapple
+478,guava
+479,custard apple
+480,orange
+481,coconut
+482,grape
+483,apple
+484,plum
+485,papaya
+486,dragon fruit
+487,pomegranate
+488,watermelon
+489,lychee
+490,orange
+491,grape
+492,pear
+493,papaya
+494,pomegranate
+495,pineapple
+496,blueberry
+497,pomegranate
+498,mango
+499,dragon fruit
+500,watermelon
+501,custard apple
+502,dragon fruit
+503,apple
+504,blueberry
+505,pear
+506,custard apple
+507,strawberry
+508,banana
+509,apple
+510,lychee
+511,plum
+512,kiwi
+513,pear
+514,pear
+515,lychee
+516,orange
+517,pineapple
+518,banana
+519,plum
+520,mango
+521,pineapple
+522,orange
+523,dragon fruit
+524,custard apple
+525,orange
+526,blueberry
+527,custard apple
+528,pineapple
+529,pomegranate
+530,mango
+531,coconut
+532,guava
+533,blueberry
+534,strawberry
+535,lychee
+536,kiwi
+537,cherry
+538,lychee
+539,pear
+540,mango
+541,plum
+542,guava
+543,banana
+544,grape
+545,custard apple
+546,papaya
+547,custard apple
+548,watermelon
+549,lychee
+550,banana
+551,watermelon
+552,guava
+553,papaya
+554,guava
+555,banana
+556,custard apple
+557,plum
+558,strawberry
+559,coconut
+560,mango
+561,banana
+562,papaya
+563,lychee
+564,banana
+565,strawberry
+566,coconut
+567,orange
+568,custard apple
+569,watermelon
+570,coconut
+571,mango
+572,lychee
+573,cherry
+574,apple
+575,papaya
+576,dragon fruit
+577,blueberry
+578,blueberry
+579,custard apple
+580,pineapple
+581,coconut
+582,apple
+583,pineapple
+584,watermelon
+585,dragon fruit
+586,orange
+587,kiwi
+588,pear
+589,pomegranate
+590,blueberry
+591,kiwi
+592,cherry
+593,lychee
+594,apple
+595,plum
+596,custard apple
+597,pineapple
+598,papaya
+599,grape
+600,dragon fruit
+601,plum
+602,watermelon
+603,blueberry
+604,kiwi
+605,apple
+606,coconut
+607,banana
+608,watermelon
+609,coconut
+610,dragon fruit
+611,pear
+612,plum
+613,papaya
+614,apple
+615,strawberry
+616,plum
+617,custard apple
+618,lychee
+619,papaya
+620,cherry
+621,pomegranate
+622,pear
+623,cherry
+624,apple
+625,coconut
+626,blueberry
+627,plum
+628,guava
+629,cherry
+630,custard apple
+631,papaya
+632,coconut
+633,plum
+634,banana
+635,lychee
+636,cherry
+637,papaya
+638,lychee
+639,papaya
+640,orange
+641,papaya
+642,mango
+643,dragon fruit
+644,banana
+645,coconut
+646,guava
+647,strawberry
+648,mango
+649,apple
+650,guava
+651,pineapple
+652,cherry
+653,coconut
+654,lychee
+655,banana
+656,blueberry
+657,guava
+658,pineapple
+659,guava
+660,watermelon
+661,blueberry
+662,pineapple
+663,custard apple
+664,custard apple
+665,coconut
+666,dragon fruit
+667,banana
+668,lychee
+669,lychee
+670,apple
+671,cherry
+672,pomegranate
+673,guava
+674,papaya
+675,apple
+676,custard apple
+677,coconut
+678,pear
+679,apple
+680,custard apple
+681,dragon fruit
+682,strawberry
+683,banana
+684,dragon fruit
+685,cherry
+686,pineapple
+687,plum
+688,apple
+689,banana
+690,cherry
+691,coconut
+692,pear
+693,cherry
+694,strawberry
+695,grape
+696,pear
+697,papaya
+698,lychee
+699,apple
+700,guava
+701,blueberry
+702,guava
+703,papaya
+704,pomegranate
+705,lychee
+706,dragon fruit
+707,pear
+708,grape
+709,orange
+710,banana
+711,orange
+712,grape
+713,plum
+714,kiwi
+715,pear
+716,papaya
+717,lychee
+718,cherry
+719,custard apple
+720,coconut
+721,pear
+722,plum
+723,pineapple
+724,orange
+725,pear
+726,coconut
+727,blueberry
+728,pomegranate
+729,kiwi
+730,orange
+731,mango
+732,mango
+733,apple
+734,orange
+735,papaya
+736,orange
+737,pomegranate
+738,grape
+739,mango
+740,grape
+741,kiwi
+742,mango
+743,lychee
+744,papaya
+745,grape
+746,dragon fruit
+747,pineapple
+748,blueberry
+749,blueberry
+750,lychee
+751,pomegranate
+752,orange
+753,grape
+754,pineapple
+755,orange
+756,banana
+757,pomegranate
+758,guava
+759,papaya
+760,kiwi
+761,lychee
+762,cherry
+763,watermelon
+764,custard apple
+765,orange
+766,pomegranate
+767,custard apple
+768,pomegranate
+769,pear
+770,papaya
+771,kiwi
+772,coconut
+773,pear
+774,pear
+775,cherry
+776,cherry
+777,orange
+778,plum
+779,orange
+780,kiwi
+781,coconut
+782,grape
+783,grape
+784,lychee
+785,pear
+786,pear
+787,mango
+788,kiwi
+789,kiwi
+790,watermelon
+791,dragon fruit
+792,pomegranate
+793,cherry
+794,plum
+795,mango
+796,pear
+797,mango
+798,coconut
+799,grape
+800,strawberry
+801,apple
+802,apple
+803,guava
+804,lychee
+805,orange
+806,strawberry
+807,mango
+808,dragon fruit
+809,blueberry
+810,pomegranate
+811,guava
+812,cherry
+813,pineapple
+814,lychee
+815,pineapple
+816,pineapple
+817,banana
+818,orange
+819,blueberry
+820,cherry
+821,watermelon
+822,blueberry
+823,mango
+824,cherry
+825,coconut
+826,papaya
+827,custard apple
+828,lychee
+829,strawberry
+830,papaya
+831,pear
+832,mango
+833,apple
+834,watermelon
+835,kiwi
+836,papaya
+837,cherry
+838,mango
+839,cherry
+840,orange
+841,custard apple
+842,orange
+843,watermelon
+844,dragon fruit
+845,mango
+846,pear
+847,pear
+848,pineapple
+849,mango
+850,pomegranate
+851,apple
+852,cherry
+853,pear
+854,pomegranate
+855,orange
+856,lychee
+857,mango
+858,pear
+859,orange
+860,coconut
+861,banana
+862,custard apple
+863,papaya
+864,orange
+865,blueberry
+866,pomegranate
+867,pomegranate
+868,watermelon
+869,guava
+870,guava
+871,watermelon
+872,banana
+873,strawberry
+874,watermelon
+875,coconut
+876,custard apple
+877,banana
+878,pomegranate
+879,plum
+880,lychee
+881,plum
+882,strawberry
+883,guava
+884,papaya
+885,orange
+886,kiwi
+887,apple
+888,papaya
+889,strawberry
+890,banana
+891,watermelon
+892,papaya
+893,pear
+894,custard apple
+895,guava
+896,pineapple
+897,lychee
+898,blueberry
+899,apple
+900,lychee
+901,blueberry
+902,cherry
+903,strawberry
+904,pear
+905,custard apple
+906,papaya
+907,watermelon
+908,grape
+909,papaya
+910,pineapple
+911,cherry
+912,dragon fruit
+913,cherry
+914,lychee
+915,kiwi
+916,guava
+917,blueberry
+918,orange
+919,pomegranate
+920,watermelon
+921,pineapple
+922,grape
+923,strawberry
+924,cherry
+925,grape
+926,strawberry
+927,pineapple
+928,lychee
+929,coconut
+930,blueberry
+931,pineapple
+932,papaya
+933,grape
+934,watermelon
+935,apple
+936,guava
+937,mango
+938,dragon fruit
+939,coconut
+940,lychee
+941,guava
+942,guava
+943,blueberry
+944,grape
+945,kiwi
+946,coconut
+947,pomegranate
+948,apple
+949,orange
+950,grape
+951,orange
+952,pomegranate
+953,cherry
+954,pineapple
+955,custard apple
+956,guava
+957,blueberry
+958,banana
+959,pomegranate
+960,lychee
+961,pear
+962,watermelon
+963,cherry
+964,watermelon
+965,papaya
+966,pear
+967,pineapple
+968,lychee
+969,watermelon
+970,mango
+971,plum
+972,banana
+973,pomegranate
+974,kiwi
+975,banana
+976,cherry
+977,apple
+978,banana
+979,mango
+980,banana
+981,dragon fruit
+982,grape
+983,pomegranate
+984,coconut
+985,pineapple
+986,apple
+987,banana
+988,dragon fruit
+989,pineapple
+990,papaya
+991,pear
+992,kiwi
+993,cherry
+994,cherry
+995,coconut
+996,strawberry
+997,lychee
+998,papaya
+999,pineapple
+1000,apple
+1001,strawberry
+1002,pear
+1003,plum
+1004,plum
+1005,cherry
+1006,apple
+1007,apple
+1008,orange
+1009,blueberry
+1010,cherry
+1011,papaya
+1012,strawberry
+1013,pineapple
+1014,mango
+1015,pineapple
+1016,blueberry
+1017,strawberry
+1018,apple
+1019,plum
+1020,banana
+1021,guava
+1022,watermelon
+1023,kiwi
+1024,dragon fruit
+1025,grape
+1026,dragon fruit
+1027,strawberry
+1028,guava
+1029,pineapple
+1030,custard apple
+1031,watermelon
+1032,strawberry
+1033,dragon fruit
+1034,custard apple
+1035,lychee
+1036,papaya
+1037,guava
+1038,pomegranate
+1039,mango
+1040,orange
+1041,strawberry
+1042,watermelon
+1043,blueberry
+1044,pineapple
+1045,watermelon
+1046,banana
+1047,kiwi
+1048,apple
+1049,pear
+1050,pear
+1051,banana
+1052,guava
+1053,custard apple
+1054,guava
+1055,custard apple
+1056,pear
+1057,kiwi
+1058,guava
+1059,dragon fruit
+1060,watermelon
+1061,banana
+1062,blueberry
+1063,dragon fruit
+1064,custard apple
+1065,cherry
+1066,pomegranate
+1067,strawberry
+1068,pineapple
+1069,plum
+1070,blueberry
+1071,pomegranate
+1072,apple
+1073,dragon fruit
+1074,pomegranate
+1075,custard apple
+1076,pear
+1077,papaya
+1078,mango
+1079,custard apple
+1080,strawberry
+1081,pineapple
+1082,cherry
+1083,banana
+1084,kiwi
+1085,pineapple
+1086,guava
+1087,mango
+1088,kiwi
+1089,orange
+1090,pineapple
+1091,cherry
+1092,papaya
+1093,plum
+1094,kiwi
+1095,guava
+1096,guava
+1097,dragon fruit
+1098,orange
+1099,strawberry
+1100,pineapple
+1101,banana
+1102,watermelon
+1103,cherry
+1104,banana
+1105,orange
+1106,grape
+1107,dragon fruit
+1108,cherry
+1109,orange
+1110,orange
+1111,custard apple
+1112,pineapple
+1113,coconut
+1114,guava
+1115,guava
+1116,pear
+1117,pear
+1118,plum
+1119,papaya
+1120,papaya
+1121,banana
+1122,blueberry
+1123,dragon fruit
+1124,coconut
+1125,blueberry
+1126,dragon fruit
+1127,coconut
+1128,banana
+1129,guava
+1130,grape
+1131,pear
+1132,custard apple
+1133,pear
+1134,cherry
+1135,strawberry
+1136,papaya
+1137,coconut
+1138,watermelon
+1139,mango
+1140,watermelon
+1141,orange
+1142,custard apple
+1143,custard apple
+1144,watermelon
+1145,plum
+1146,mango
+1147,plum
+1148,mango
+1149,pear
+1150,custard apple
+1151,orange
+1152,blueberry
+1153,pomegranate
+1154,watermelon
+1155,guava
+1156,strawberry
+1157,blueberry
+1158,lychee
+1159,banana
+1160,pineapple
+1161,guava
+1162,mango
+1163,blueberry
+1164,kiwi
+1165,blueberry
+1166,pineapple
+1167,watermelon
+1168,custard apple
+1169,watermelon
+1170,lychee
+1171,pomegranate
+1172,pear
+1173,dragon fruit
+1174,watermelon
+1175,dragon fruit
+1176,papaya
+1177,pineapple
+1178,banana
+1179,orange
+1180,lychee
+1181,apple
+1182,grape
+1183,strawberry
+1184,dragon fruit
+1185,pear
+1186,blueberry
+1187,orange
+1188,custard apple
+1189,watermelon
+1190,plum
+1191,banana
+1192,pomegranate
+1193,pineapple
+1194,dragon fruit
+1195,grape
+1196,pomegranate
+1197,blueberry
+1198,pear
+1199,coconut
+1200,blueberry
+1201,pineapple
+1202,mango
+1203,grape
+1204,cherry
+1205,pomegranate
+1206,custard apple
+1207,papaya
+1208,plum
+1209,pear
+1210,pomegranate
+1211,banana
+1212,lychee
+1213,blueberry
+1214,papaya
+1215,apple
+1216,strawberry
+1217,watermelon
+1218,banana
+1219,apple
+1220,plum
+1221,orange
+1222,coconut
+1223,pear
+1224,lychee
+1225,pomegranate
+1226,kiwi
+1227,watermelon
+1228,guava
+1229,mango
+1230,banana
+1231,grape
+1232,plum
+1233,plum
+1234,banana
+1235,plum
+1236,coconut
+1237,coconut
+1238,guava
+1239,banana
+1240,lychee
+1241,kiwi
+1242,pineapple
+1243,orange
+1244,pear
+1245,orange
+1246,lychee
+1247,guava
+1248,coconut
+1249,plum
+1250,plum
+1251,pear
+1252,coconut
+1253,dragon fruit
+1254,mango
+1255,banana
+1256,plum
+1257,guava
+1258,banana
+1259,custard apple
+1260,pomegranate
+1261,lychee
+1262,pomegranate
+1263,blueberry
+1264,papaya
+1265,watermelon
+1266,pineapple
+1267,cherry
+1268,pear
+1269,grape
+1270,lychee
+1271,mango
+1272,kiwi
+1273,coconut
+1274,orange
+1275,coconut
+1276,kiwi
+1277,pomegranate
+1278,coconut
+1279,pineapple
+1280,lychee
+1281,lychee
+1282,banana
+1283,plum
+1284,mango
+1285,orange
+1286,plum
+1287,lychee
+1288,pomegranate
+1289,apple
+1290,guava
+1291,grape
+1292,dragon fruit
+1293,guava
+1294,apple
+1295,pear
+1296,apple
+1297,papaya
+1298,apple
+1299,guava
+1300,strawberry
+1301,custard apple
+1302,orange
+1303,dragon fruit
+1304,watermelon
+1305,dragon fruit
+1306,watermelon
+1307,lychee
+1308,orange
+1309,coconut
+1310,guava
+1311,orange
+1312,custard apple
+1313,dragon fruit
+1314,dragon fruit
+1315,apple
+1316,guava
+1317,pomegranate
+1318,kiwi
+1319,grape
+1320,dragon fruit
+1321,pineapple
+1322,cherry
+1323,banana
+1324,papaya
+1325,grape
+1326,lychee
+1327,cherry
+1328,kiwi
+1329,pineapple
+1330,plum
+1331,custard apple
+1332,pomegranate
+1333,blueberry
+1334,watermelon
+1335,dragon fruit
+1336,grape
+1337,dragon fruit
+1338,grape
+1339,coconut
+1340,cherry
+1341,mango
+1342,apple
+1343,papaya
+1344,mango
+1345,coconut
+1346,papaya
+1347,plum
+1348,pineapple
+1349,guava
+1350,pineapple
+1351,grape
+1352,apple
+1353,coconut
+1354,cherry
+1355,apple
+1356,plum
+1357,guava
+1358,pineapple
+1359,lychee
+1360,strawberry
+1361,coconut
+1362,mango
+1363,blueberry
+1364,blueberry
+1365,pomegranate
+1366,papaya
+1367,coconut
+1368,dragon fruit
+1369,pear
+1370,apple
+1371,apple
+1372,coconut
+1373,blueberry
+1374,apple
+1375,blueberry
+1376,plum
+1377,dragon fruit
+1378,pineapple
+1379,custard apple
+1380,coconut
+1381,strawberry
+1382,papaya
+1383,mango
+1384,kiwi
+1385,guava
+1386,watermelon
+1387,orange
+1388,papaya
+1389,kiwi
+1390,custard apple
+1391,banana
+1392,blueberry
+1393,pear
+1394,mango
+1395,blueberry
+1396,strawberry
+1397,lychee
+1398,pear
+1399,pomegranate
+1400,pineapple
+1401,pineapple
+1402,grape
+1403,banana
+1404,pomegranate
+1405,lychee
+1406,strawberry
+1407,pear
+1408,pomegranate
+1409,grape
+1410,pear
+1411,mango
+1412,banana
+1413,grape
+1414,blueberry
+1415,guava
+1416,mango
+1417,apple
+1418,custard apple
+1419,guava
+1420,dragon fruit
+1421,dragon fruit
+1422,mango
+1423,kiwi
+1424,kiwi
+1425,cherry
+1426,grape
+1427,strawberry
+1428,lychee
+1429,orange
+1430,plum
+1431,custard apple
+1432,plum
+1433,plum
+1434,pineapple
+1435,lychee
+1436,lychee
+1437,blueberry
+1438,pear
+1439,cherry
+1440,pineapple
+1441,apple
+1442,custard apple
+1443,orange
+1444,blueberry
+1445,watermelon
+1446,orange
+1447,pomegranate
+1448,strawberry
+1449,kiwi
+1450,dragon fruit
+1451,guava
+1452,banana
+1453,custard apple
+1454,dragon fruit
+1455,mango
+1456,papaya
+1457,apple
+1458,banana
+1459,banana
+1460,plum
+1461,blueberry
+1462,orange
+1463,blueberry
+1464,dragon fruit
+1465,banana
+1466,dragon fruit
+1467,strawberry
+1468,custard apple
+1469,mango
+1470,pear
+1471,grape
+1472,strawberry
+1473,dragon fruit
+1474,coconut
+1475,kiwi
+1476,grape
+1477,watermelon
+1478,mango
+1479,lychee
+1480,papaya
+1481,orange
+1482,dragon fruit
+1483,guava
+1484,custard apple
+1485,guava
+1486,papaya
+1487,pomegranate
+1488,apple
+1489,plum
+1490,blueberry
+1491,pomegranate
+1492,watermelon
+1493,watermelon
+1494,pomegranate
+1495,cherry
+1496,pomegranate
+1497,grape
+1498,pomegranate
+1499,grape
+1500,dragon fruit
+1501,guava
+1502,blueberry
+1503,pineapple
+1504,coconut
+1505,custard apple
+1506,pineapple
+1507,pomegranate
+1508,papaya
+1509,banana
+1510,apple
+1511,pineapple
+1512,pomegranate
+1513,orange
+1514,blueberry
+1515,apple
+1516,watermelon
+1517,watermelon
+1518,mango
+1519,pineapple
+1520,mango
+1521,banana
+1522,lychee
+1523,plum
+1524,pineapple
+1525,banana
+1526,orange
+1527,guava
+1528,custard apple
+1529,strawberry
+1530,banana
+1531,kiwi
+1532,grape
+1533,grape
+1534,cherry
+1535,plum
+1536,blueberry
+1537,strawberry
+1538,plum
+1539,mango
+1540,orange
+1541,kiwi
+1542,watermelon
+1543,dragon fruit
+1544,dragon fruit
+1545,dragon fruit
+1546,cherry
+1547,dragon fruit
+1548,blueberry
+1549,strawberry
+1550,kiwi
+1551,kiwi
+1552,kiwi
+1553,kiwi
+1554,orange
+1555,watermelon
+1556,guava
+1557,papaya
+1558,coconut
+1559,lychee
+1560,orange
+1561,blueberry
+1562,grape
+1563,kiwi
+1564,mango
+1565,pomegranate
+1566,custard apple
+1567,kiwi
+1568,pineapple
+1569,banana
+1570,kiwi
+1571,kiwi
+1572,pear
+1573,cherry
+1574,custard apple
+1575,cherry
+1576,papaya
+1577,pomegranate
+1578,dragon fruit
+1579,grape
+1580,plum
+1581,watermelon
+1582,watermelon
+1583,blueberry
+1584,pineapple
+1585,custard apple
+1586,apple
+1587,strawberry
+1588,watermelon
+1589,lychee
+1590,watermelon
+1591,papaya
+1592,kiwi
+1593,pineapple
+1594,strawberry
+1595,papaya
+1596,custard apple
+1597,watermelon
+1598,mango
+1599,watermelon
+1600,papaya
+1601,blueberry
+1602,coconut
+1603,blueberry
+1604,blueberry
+1605,kiwi
+1606,pomegranate
+1607,papaya
+1608,pineapple
+1609,custard apple
+1610,custard apple
+1611,grape
+1612,grape
+1613,custard apple
+1614,watermelon
+1615,plum
+1616,lychee
+1617,lychee
+1618,blueberry
+1619,apple
+1620,banana
+1621,apple
+1622,custard apple
+1623,grape
+1624,pear
+1625,blueberry
+1626,custard apple
+1627,custard apple
+1628,watermelon
+1629,guava
+1630,kiwi
+1631,pear
+1632,custard apple
+1633,blueberry
+1634,apple
+1635,custard apple
+1636,watermelon
+1637,grape
+1638,pomegranate
+1639,cherry
+1640,pear
+1641,papaya
+1642,plum
+1643,pineapple
+1644,mango
+1645,lychee
+1646,pineapple
+1647,pear
+1648,blueberry
+1649,pineapple
+1650,plum
+1651,custard apple
+1652,watermelon
+1653,custard apple
+1654,banana
+1655,orange
+1656,pear
+1657,papaya
+1658,banana
+1659,grape
+1660,pineapple
+1661,custard apple
+1662,pear
+1663,guava
+1664,coconut
+1665,papaya
+1666,pomegranate
+1667,banana
+1668,dragon fruit
+1669,lychee
+1670,plum
+1671,apple
+1672,kiwi
+1673,pomegranate
+1674,pear
+1675,pomegranate
+1676,kiwi
+1677,coconut
+1678,grape
+1679,plum
+1680,cherry
+1681,banana
+1682,coconut
+1683,watermelon
+1684,pineapple
+1685,papaya
+1686,grape
+1687,grape
+1688,grape
+1689,apple
+1690,pomegranate
+1691,pear
+1692,mango
+1693,cherry
+1694,mango
+1695,plum
+1696,cherry
+1697,coconut
+1698,mango
+1699,papaya
+1700,pear
+1701,coconut
+1702,watermelon
+1703,kiwi
+1704,papaya
+1705,apple
+1706,dragon fruit
+1707,pomegranate
+1708,dragon fruit
+1709,orange
+1710,grape
+1711,pineapple
+1712,coconut
+1713,cherry
+1714,mango
+1715,strawberry
+1716,watermelon
+1717,pomegranate
+1718,grape
+1719,grape
+1720,blueberry
+1721,papaya
+1722,papaya
+1723,grape
+1724,apple
+1725,pear
+1726,plum
+1727,guava
+1728,lychee
+1729,mango
+1730,grape
+1731,orange
+1732,guava
+1733,kiwi
+1734,lychee
+1735,pineapple
+1736,mango
+1737,mango
+1738,pomegranate
+1739,pineapple
+1740,blueberry
+1741,banana
+1742,plum
+1743,blueberry
+1744,strawberry
+1745,watermelon
+1746,coconut
+1747,pear
+1748,watermelon
+1749,apple
+1750,lychee
+1751,pear
+1752,orange
+1753,kiwi
+1754,pear
+1755,plum
+1756,pineapple
+1757,papaya
+1758,custard apple
+1759,strawberry
+1760,plum
+1761,orange
+1762,mango
+1763,lychee
+1764,lychee
+1765,pear
+1766,grape
+1767,mango
+1768,plum
+1769,dragon fruit
+1770,guava
+1771,lychee
+1772,apple
+1773,apple
+1774,pineapple
+1775,pineapple
+1776,lychee
+1777,dragon fruit
+1778,strawberry
+1779,apple
+1780,guava
+1781,cherry
+1782,watermelon
+1783,apple
+1784,banana
+1785,pineapple
+1786,lychee
+1787,mango
+1788,lychee
+1789,strawberry
+1790,coconut
+1791,pineapple
+1792,banana
+1793,banana
+1794,dragon fruit
+1795,strawberry
+1796,orange
+1797,strawberry
+1798,coconut
+1799,pear
+1800,dragon fruit
+1801,custard apple
+1802,banana
+1803,mango
+1804,blueberry
+1805,orange
+1806,orange
+1807,orange
+1808,pomegranate
+1809,kiwi
+1810,grape
+1811,banana
+1812,pomegranate
+1813,banana
+1814,watermelon
+1815,plum
+1816,blueberry
+1817,custard apple
+1818,mango
+1819,pomegranate
+1820,cherry
+1821,apple
+1822,dragon fruit
+1823,apple
+1824,blueberry
+1825,kiwi
+1826,plum
+1827,lychee
+1828,pineapple
+1829,pomegranate
+1830,pear
+1831,dragon fruit
+1832,dragon fruit
+1833,pomegranate
+1834,pear
+1835,dragon fruit
+1836,cherry
+1837,kiwi
+1838,pomegranate
+1839,grape
+1840,blueberry
+1841,watermelon
+1842,dragon fruit
+1843,kiwi
+1844,cherry
+1845,guava
+1846,apple
+1847,pear
+1848,custard apple
+1849,watermelon
+1850,mango
+1851,guava
+1852,pineapple
+1853,custard apple
+1854,pear
+1855,lychee
+1856,cherry
+1857,pomegranate
+1858,custard apple
+1859,apple
+1860,kiwi
+1861,grape
+1862,mango
+1863,coconut
+1864,pomegranate
+1865,strawberry
+1866,grape
+1867,apple
+1868,pomegranate
+1869,kiwi
+1870,plum
+1871,pineapple
+1872,watermelon
+1873,papaya
+1874,blueberry
+1875,blueberry
+1876,watermelon
+1877,pomegranate
+1878,strawberry
+1879,strawberry
+1880,lychee
+1881,watermelon
+1882,orange
+1883,strawberry
+1884,custard apple
+1885,orange
+1886,papaya
+1887,pomegranate
+1888,lychee
+1889,guava
+1890,blueberry
+1891,strawberry
+1892,watermelon
+1893,pomegranate
+1894,guava
+1895,watermelon
+1896,blueberry
+1897,blueberry
+1898,cherry
+1899,dragon fruit
+1900,pineapple
+1901,pear
+1902,grape
+1903,cherry
+1904,lychee
+1905,custard apple
+1906,dragon fruit
+1907,kiwi
+1908,cherry
+1909,banana
+1910,guava
+1911,pomegranate
+1912,kiwi
+1913,lychee
+1914,dragon fruit
+1915,mango
+1916,grape
+1917,strawberry
+1918,papaya
+1919,mango
+1920,cherry
+1921,kiwi
+1922,apple
+1923,dragon fruit
+1924,pomegranate
+1925,apple
+1926,apple
+1927,cherry
+1928,guava
+1929,kiwi
+1930,apple
+1931,plum
+1932,lychee
+1933,grape
+1934,banana
+1935,guava
+1936,blueberry
+1937,kiwi
+1938,plum
+1939,cherry
+1940,papaya
+1941,pear
+1942,coconut
+1943,kiwi
+1944,strawberry
+1945,plum
+1946,kiwi
+1947,kiwi
+1948,papaya
+1949,kiwi
+1950,pineapple
+1951,kiwi
+1952,orange
+1953,cherry
+1954,mango
+1955,blueberry
+1956,pineapple
+1957,lychee
+1958,coconut
+1959,lychee
+1960,plum
+1961,pear
+1962,pear
+1963,pineapple
+1964,banana
+1965,cherry
+1966,pear
+1967,strawberry
+1968,papaya
+1969,custard apple
+1970,pineapple
+1971,grape
+1972,grape
+1973,guava
+1974,orange
+1975,grape
+1976,strawberry
+1977,orange
+1978,dragon fruit
+1979,orange
+1980,grape
+1981,pear
+1982,lychee
+1983,grape
+1984,pineapple
+1985,apple
+1986,kiwi
+1987,pear
+1988,strawberry
+1989,kiwi
+1990,blueberry
+1991,blueberry
+1992,banana
+1993,plum
+1994,coconut
+1995,custard apple
+1996,orange
+1997,kiwi
+1998,pomegranate
+1999,coconut
+2000,pear
